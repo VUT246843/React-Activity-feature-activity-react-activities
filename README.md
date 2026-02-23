@@ -1,6 +1,6 @@
 React Activity Feature – Asynchronous Activities
 
-The <Activity /> component in React provides a robust way to manage asynchronous activities in your application. Instead of merely conditionally rendering UI, Activity allows you to schedule, prioritize, and run background activities, giving you fine-grained control over how tasks execute in parallel with your components.
+The <Activity /> component in React provides a robust way to manage asynchronous activities in your application. Instead of merely conditionally rendering UI , Activity allows you to schedule, prioritize, and run background activities, giving you fine-grained control over how tasks execute in parallel with your components.
 
 Basic Usage
 
@@ -986,3 +986,4 @@ export const AdvancedActivities = () => {
         </div>
     );
 };
+
